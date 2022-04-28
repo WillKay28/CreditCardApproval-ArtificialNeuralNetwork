@@ -1,0 +1,2 @@
+# CreditCardApproval-ArtificialNeuralNetwork
+In this project, we analyze and predit the approval ratings of credit cards with respect to features including gender, age, debt, married, bank customer, industry, ethnicity, years employed, prior default, employed, credit score, driver's license, citizen, zipcode, income and approved (target feature) using a deep learning model (Artificial Neural Network (ANN)). We use precision, recall, f1-score to measure performance of our ANN model.
